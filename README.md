@@ -27,6 +27,8 @@ node index.js
 NPM INSTALL COMMAND: will download the following dependencies that have been installed for this project:
 
 **CLIENT:**
+
+```
 "@heroicons/react": "^2.0.18",
 "autoprefixer": "^10.4.16",
 "axios": "^1.5.1",
@@ -37,8 +39,11 @@ NPM INSTALL COMMAND: will download the following dependencies that have been ins
 "react-dom": "^18.2.0",
 "react-router-dom": "^6.17.0",
 "tailwindcss": "^3.3.3"
+```
 
 **API:**
+
+```
 "bcrypt": "^5.1.1",
 "cookie-parser": "^1.4.6",
 "cors": "^2.8.5",
@@ -49,6 +54,7 @@ NPM INSTALL COMMAND: will download the following dependencies that have been ins
 "mongodb": "^6.1.0",
 "mongoose": "^7.6.3",
 "multer": "^1.4.5-lts.1"
+```
 
 ### Recommended IDE Setup
 
