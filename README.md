@@ -4,7 +4,7 @@ This Airbnb clone was created with React 18 in Vite and Node.js
 
 ## Installation Instructions
 
-After the project has been cloned in your Code editor, you must run the following command:
+After the project has been cloned in your Code editor, on both folders you must run the following command:
 
 ```
 npm install
@@ -12,8 +12,16 @@ npm install
 
 After installation to get the project started, you must run the following command:
 
+**CLIENT:**
+
 ```
 npm run dev
+```
+
+**API:**
+
+```
+node index.js
 ```
 
 NPM INSTALL COMMAND: will download the following dependencies that have been installed for this project:
